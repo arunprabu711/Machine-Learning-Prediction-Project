@@ -19,22 +19,6 @@ The main objectives of this project are:
 * Evaluate model performance.
 * Understand the complete Machine Learning workflow.
 
-## 📂 Project Files
-
-This repository contains the following Jupyter Notebooks:
-
-### 1. `MLF 07-08-2026.ipynb`
-
-Contains Machine Learning-related data analysis, preprocessing, and model development work.
-
-### 2. `MLF 08-08-2026.ipynb`
-
-Contains additional Machine Learning analysis and prediction-related work.
-
-### 3. `MLF 11-08-2026.ipynb`
-
-Contains further Machine Learning experiments, analysis, and model development.
-
 ## 🧠 Machine Learning Workflow
 
 The project follows the general Machine Learning workflow:
